@@ -7,7 +7,7 @@ Register here: https://developers.zomato.com/api <br/>
 Explore more api(s) at: https://github.com/toddmotto/public-apis/blob/master/README.md <br/>
 
 
-# Check the sample chat below:
+## Check the sample chat below:
 
 ![alt text](https://github.com/AbhishekAshokDubey/msBotWithLUIS/blob/master/bot_chat.PNG?raw=true)
 
